@@ -1,0 +1,17 @@
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\bin\Debug\CScharEgitimKampi301.EFProject.exe.config
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\bin\Debug\CScharEgitimKampi301.EFProject.exe
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\bin\Debug\CScharEgitimKampi301.EFProject.pdb
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.Form1.resources
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.Properties.Resources.resources
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.csproj.GenerateResource.cache
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEg.5C6F0E61.Up2Date
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.exe
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.pdb
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.FrmLocation.resources
+C:\Users\EXCALİBUR\Source\Repos\CScharEgitimKampi301\CScharEgitimKampi301.EFProject\obj\Debug\CScharEgitimKampi301.EFProject.FrmStatistics.resources
